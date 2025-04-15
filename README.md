@@ -33,7 +33,7 @@ Check out our [Projects](https://github.com/taskleaf/issues/projects) tab to see
 
 ## 📱 Download TaskLeaf
 
-[Coming Soon](https://taskleaf.io)
+[Download Now](https://taskleaf.io/download)
 
 
 ## 🔗 Useful Links
