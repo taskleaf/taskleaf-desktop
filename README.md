@@ -22,7 +22,7 @@ Welcome to the TaskLeaf public issue tracker! This repository is dedicated to tr
    - Enhancement Suggestion
 
 Please provide as much detail as possible, including:
-- iOS version
+- OS version
 - TaskLeaf app version
 - Steps to reproduce (for bugs)
 - Screenshots (if applicable)
